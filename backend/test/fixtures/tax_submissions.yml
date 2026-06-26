@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tax_service: one
+  taxpayer_name: MyString
+  npwp: MyString
+  tax_type: MyString
+  fiscal_year: 1
+  amount: 9.99
+  notes: MyText
+  status: MyString
+
+two:
+  tax_service: two
+  taxpayer_name: MyString
+  npwp: MyString
+  tax_type: MyString
+  fiscal_year: 1
+  amount: 9.99
+  notes: MyText
+  status: MyString
